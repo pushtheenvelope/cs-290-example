@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Screaming yet again.
+=======
+Screaming. Save me.
+>>>>>>> Stashed changes
